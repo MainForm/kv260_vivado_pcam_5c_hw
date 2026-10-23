@@ -1,0 +1,10 @@
+proj/*
+!proj/.keep
+
+hw_handoff/*
+!hw_handoff/.keep
+
+.Xil
+
+*.jou
+*.log
